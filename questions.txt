@@ -1,0 +1,107 @@
+HTML, CSS, JS:
+what is html
+give an example of 3 html block elements
+give an example of 3 html inline elements
+what is the function of the <fieldset> tag in html?
+name 3 new input types added in html5
+can you explain the client server model
+what is javascript
+where is javascript interpreted
+What is a Style Sheet?
+How can I include comments in my Style Sheet?
+How do I center block­elements
+Which browsers support CSS?
+Name three ways to define a color in CSS
+Explain the difference between visibility:hidden; and display:none
+what is the difference between inline and inline­block
+what are the advantages/disadvantages of the three methods of applying style to
+elements?
+Explain the DOM and how we interact with it in Javascript
+what 3 common objects are used in our interaction with the DOM?
+name 3 new features added in css3, and steps we must take to ensure cross­browser
+support
+
+
+PYTHON:
+What is the statement that can be used in Python if a statement is required syntactically but the program requires no action?
+What is a python lambda and in what situation might I need to use one?
+Name five Python modules in the stdlib, and five non­standard Python modules.
+Walk through the steps of installing a third­party Python package or module. What is PEP 8?
+What does the "with" statement do?
+What is __init__.py?
+What is scope in python?
+Define a method in Python?
+Define self?
+Describe python usage in web programming?
+Explain the rules for local and global variables in python?
+How could I go about finding the methods or attributes of an object if I do not have access to the code that created it?
+Define class?
+Explain how python is interpreted.
+Explain the difference between a tuple and a list, and give at least one example of when one would want to use a tuple.
+ Are double quotes single quotes used for String representation in Python? Does Python strongly support regular expressions?
+What is list comprehension in Python?
+MEAN
+what are some benefits of client side rendering vs back end rendering? does every request need to be paired with a response?
+mongoDB stores ____?
+what is JSON and what are some uses for it?
+what is ES6 and how does it relate to Javascript?
+true or false, one server only has one database? explain
+how do we run javascript on the backend?
+which is more secure, the client or the server?
+in javascript, strings are immutable, what does this mean?
+what kind of scoping does javascript use to store variables?
+name three different kinds of javascript loops
+what can be stored in a JSON attribute?
+what is an IDE?
+what’s the difference between a terminal and an IDE?
+what happens when you try to run alert(‘hello’) on Node?
+imagine you’re looping through an array of a hundred elements. why would that loop run slower on a browser than in node?
+explain garbage collection in javascript
+javascript is a true OOP language, true or false. explain
+how do you write class methods in javascript?
+how do you instantiate a class in javascript?
+explain the var keyword
+explain ‘use strict’ in javascript
+explain when semicolons are required in javascript
+in what places does the , character appear in javascript? (hint, there are at least three)
+GENERAL:
+What development tools have you used?
+What languages have you programmed in?
+Why use version control and how should we use it effectively?
+Tell me about the most recent project you worked on. What were your responsibilities? How did your education help prepare you for this job?
+Tell me about the project you are most proud of, and what your contribution was. What constitutes a RESTful API?
+If your server was taking 10 minutes to serve an image how would you debug that
+performance issue?
+What is the difference between a unit test and a functional/integration test?
+ What is a singleton design pattern and how would you use it?
+If I were to build a web app that could find every prime number, and would send a text message every time it finds a prime , what technologies and design patterns would you use?
+Explain to me the project that you’re most proud of:
+what technologies did you use and why?
+how did you architect/organize the app and why did you choose that method? why did you choose the database you used?
+and what were some challenges you faced?
+what would you do differently the next time around?
+explain all of the http verbs and their functions.
+explain the difference between sql and nosql database, and why would you use each. what factors would go into your decision to use one language over another, one
+framework over another?
+what are the advantages of using a front end framework? and how would you decide
+which one you need for your project?
+Rails:
+what is CSRF? How does Rails protect against it? Explain how (almost) everything is an object in Ruby: What’s your favorite testing tool?
+What are Gems and which are some of your favorites? What is the difference between a class and a module? How does a symbol differ from a string?
+How would you create getter and setter methods in Ruby?
+Describe the difference between class and instance variables?
+What are the three levels of method access control for classes and what do they signify? What do they imply about the method?
+What does self mean?
+What is a Proc?
+What is your favorite api resource for ruby?
+What are open classes and does ruby allow you to do this?
+IOS:
+What are the benefits of swift over objective c?
+Swift is a compiled, compare this to an interpreted language.
+Explain the difference between value types and reference types.
+What is the difference between classes and structs?
+Explain a situation where a struct would be needed instead of a class.
+Your project requires you to make http request to an outside server, what do you need to do for your app to allow this to happen?
+What is a protocol? Give a use case for one.
+What the difference between let vs var and which one should you always try to use if you can? What is an optional?
+What is optional binding and when should you use it?
