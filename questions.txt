@@ -1,14 +1,26 @@
-HTML, CSS, JS:
-what is html
-give an example of 3 html block elements
-give an example of 3 html inline elements
-what is the function of the <fieldset> tag in html?
-name 3 new input types added in html5
-can you explain the client server model
-what is javascript
-where is javascript interpreted
-What is a Style Sheet?
-How can I include comments in my Style Sheet?
+<!-- HTML, CSS, JS: -->
+<!-- what is html -->
+Hypertext markup language. It is a standard markup language creating webpages and web applications.
+
+<!-- give an example of 3 html block elements -->
+<div></div>, <p></p>, <h1></h1>
+
+<!-- give an example of 3 html inline elements -->
+<span></span>, <a></a>, <img/>
+
+<!-- what is the function of the <fieldset> tag in html? -->
+Used to group related elements in a form and draws a box around the related elements.
+
+<!-- name 3 new input types added in html5 -->
+color, date, range
+
+<!-- can you explain the client server model -->
+
+
+<!-- what is javascript -->
+<!-- where is javascript interpreted -->
+<!-- What is a Style Sheet? -->
+<!-- How can I include comments in my Style Sheet? -->
 How do I center block­elements
 Which browsers support CSS?
 Name three ways to define a color in CSS
@@ -28,7 +40,7 @@ What is a python lambda and in what situation might I need to use one?
 Name five Python modules in the stdlib, and five non­standard Python modules.
 Walk through the steps of installing a third­party Python package or module. What is PEP 8?
 What does the "with" statement do?
-What is __init__.py?
+<!-- What is __init__.py? -->
 What is scope in python?
 Define a method in Python?
 Define self?
@@ -40,11 +52,13 @@ Explain how python is interpreted.
 Explain the difference between a tuple and a list, and give at least one example of when one would want to use a tuple.
  Are double quotes single quotes used for String representation in Python? Does Python strongly support regular expressions?
 What is list comprehension in Python?
+
+
 MEAN
 what are some benefits of client side rendering vs back end rendering? does every request need to be paired with a response?
 mongoDB stores ____?
 what is JSON and what are some uses for it?
-what is ES6 and how does it relate to Javascript?
+<!-- what is ES6 and how does it relate to Javascript? -->
 true or false, one server only has one database? explain
 how do we run javascript on the backend?
 which is more secure, the client or the server?
@@ -85,11 +99,13 @@ explain the difference between sql and nosql database, and why would you use eac
 framework over another?
 what are the advantages of using a front end framework? and how would you decide
 which one you need for your project?
+
+
 Rails:
 what is CSRF? How does Rails protect against it? Explain how (almost) everything is an object in Ruby: What’s your favorite testing tool?
 What are Gems and which are some of your favorites? What is the difference between a class and a module? How does a symbol differ from a string?
 How would you create getter and setter methods in Ruby?
-Describe the difference between class and instance variables?
+<!-- Describe the difference between class and instance variables? -->
 What are the three levels of method access control for classes and what do they signify? What do they imply about the method?
 What does self mean?
 What is a Proc?
