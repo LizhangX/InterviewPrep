@@ -35,8 +35,10 @@ support
 
 
 PYTHON:
-What is the statement that can be used in Python if a statement is required syntactically but the program requires no action?
-What is a python lambda and in what situation might I need to use one?
+<!-- What is the statement that can be used in Python if a statement is required syntactically but the program requires no action? -->
+pass
+<!-- What is a python lambda and in what situation might I need to use one? -->
+
 Name five Python modules in the stdlib, and five non­standard Python modules.
 Walk through the steps of installing a third­party Python package or module. What is PEP 8?
 What does the "with" statement do?
