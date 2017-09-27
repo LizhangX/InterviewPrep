@@ -23,8 +23,14 @@ class Solution:
 
     def removeDuplicates(self,head):
         #Write your code here
-      
-  
+        cur = head
+        while cur.next:
+            if cur.data == cur.next.data:
+                cur.next = cur.next.next
+            else:
+                cur = cur.next
+        return head
+    
 mylist= Solution()
 T=int(input())
 head=None
