@@ -16,3 +16,12 @@ class Solution:
                 cur=self.insert(root.right,data)
                 root.right=cur
         return root
+    def levelOrder(self,root):
+
+T=int(raw_input())
+myTree=Solution()
+root=None
+for i in range(T):
+    data=int(raw_input())
+    root=myTree.insert(root,data)
+myTree.levelOrder(root)
