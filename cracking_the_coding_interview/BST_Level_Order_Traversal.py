@@ -23,13 +23,12 @@ class Solution:
         s = ""
         queue.append(root)
         while queue != []:
-            cur = queue[0];
+            cur = queue.pop(0)
             s = s + str(cur.data) + " "
             if cur.left != None:
                 queue.append(cur.left)
             if cur.right != None:
                 queue.append(cur.right)
-            queue.pop(0)
         print s
 T=int(raw_input())
 myTree=Solution()
