@@ -42,5 +42,13 @@ def isPermutation(s1, s2):
 ## Output: "Mr%20John%20Smith"
 ## Hints: 53, 118
 
-def URLify(s):
-	
+def URLify(s, l):
+	arr = []
+	for i in range(l):
+		if s[i] == " ":
+			arr.append("%20")
+		else:
+			arr.append(s[i])
+	return ''.join(arr)
+
+# print URLify("Mr John Smith     ", 13)
