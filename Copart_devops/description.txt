@@ -1,0 +1,15 @@
+As part of the DevOps team, The junior engineer will assist senior team members in automating deployments, configuration management and capacity management of Copart’ production applications. In this role, you will be interacting with all functions in Copart’s technology team to build out operational capabilities to support our secure, scalable, fault-tolerant and cloud based web architecture.
+
+Duties will include:
+Build, maintain, and troubleshoot one or more company products
+Develop internal tools and processes to maintain stability and performance of our infrastructure
+Gather, analyze, and report important IT system data
+Provide feedback to developers regarding the status of various IT systems
+Develop and manage product-related IT procedures
+Research, review, analyze, troubleshoot, and document product-related IT systems
+Respond to and resolve production issues
+Develop and document infrastructure standards
+Plan and successfully complete IT projects and goals
+Automate repetitive tasks
+Present ideas clearly to executives and personnel on levels of the development process
+Help Define and establish common and advanced system administration functions
