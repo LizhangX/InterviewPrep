@@ -13,3 +13,9 @@ Plan and successfully complete IT projects and goals
 Automate repetitive tasks
 Present ideas clearly to executives and personnel on levels of the development process
 Help Define and establish common and advanced system administration functions
+
+Questions:
+1. How big is the DevOps Team?
+2. How you communication with the developers?
+    3. When the devops them find a bug, how to solve it?
+4. Agile/scrum. -> If you see something can be done better, would you note it and give devs feedbacks in the retro meeting?
